@@ -9,4 +9,4 @@ sont gérées par des smart contrats.
 Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat, 
  Docker, Github, Mongodb, MetaMask.
  ## Diagramme de classe :
- 
+ ![diag](https://user-images.githubusercontent.com/101187429/212501574-748f6e28-7e7e-4b2e-8d78-2932d3bf71d6.jpg)
