@@ -11,7 +11,8 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
  ## Diagramme de classe :
  ![diag](https://user-images.githubusercontent.com/101187429/212501574-748f6e28-7e7e-4b2e-8d78-2932d3bf71d6.jpg)
  ## MongoDB :
- 
+ <img width="485" alt="Screenshot 2023-01-15 150514" src="https://user-images.githubusercontent.com/101187429/212545670-0eaaad40-d942-4fdc-8ed1-6a4954e1125d.png">
+ <img width="757" alt="Screenshot 2023-01-15 150924" src="https://user-images.githubusercontent.com/101187429/212545667-c3885417-cf95-4f2c-be2d-32f3d89b021c.png">
 ## Lancement :
 ![1_1](https://user-images.githubusercontent.com/101187429/212501658-f9f5c480-a7b8-46b3-84be-66e443233cba.jpg)
 
