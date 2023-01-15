@@ -7,7 +7,7 @@ import { Collection } from '../models/collection/collection.module';
 })
 export class CollectionService {
 
-  apiUrl = "http://localhost:8089/api/collections";
+  apiUrl = "http://localhost:9191/api/collections/";
 
   constructor(private httpClient: HttpClient) { }
 
