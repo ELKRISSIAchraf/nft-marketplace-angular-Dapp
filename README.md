@@ -45,6 +45,7 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 ## S'enregistrer :
  ### Remarque : lorsque l'utilisateur s'enregistre ses infos(image , name ...) seront stockés (bdd) sauf la balance 
  <img width="909" alt="Screenshot 2023-01-15 163413" src="https://user-images.githubusercontent.com/101187429/212550468-bacd0623-9f3b-4acc-b852-651dd66e4f8e.png">
+
 ## Profil : 
 
 ## Panier :
@@ -66,9 +67,12 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
  ### Remarque :  l'ajoute d'un NFT au panier  ca vous dire pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
 ## collections du user :
 <img width="958" alt="Screenshot 2023-01-15 170330" src="https://user-images.githubusercontent.com/101187429/212552299-91f450f1-a059-46e3-b128-35f9c82956fb.png">
+
 ### ajouter collection :
+
 <img width="959" alt="Screenshot 2023-01-15 170942 (1)" src="https://user-images.githubusercontent.com/101187429/212552443-dc292f75-860c-4067-9741-ca6abe27fa60.png">
 <img width="788" alt="Screenshot 2023-01-15 170628" src="https://user-images.githubusercontent.com/101187429/212552462-8b5ad9bd-a8cb-4b61-a042-5b4e438d40cc.png">
+
 ## NFT et BlockChain :
 ### remarque : lorsque un utilisateur veut creer un nft il doit quelque infos seront stockés dans la bdd (collection ...) et d'autre dans la blockchain (token , owner ) et biensur il doit confirmer la transactions et les frais (gas ) .
 ### Ajouter NFT :
@@ -78,6 +82,7 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 <img width="955" alt="Screenshot 2023-01-15 172407" src="https://user-images.githubusercontent.com/101187429/212553331-9716ab7e-4c3f-41e7-90f9-e26e50e36590.png">
 <img width="632" alt="Screenshot 2023-01-15 172823" src="https://user-images.githubusercontent.com/101187429/212553355-68b404df-104f-4966-82bf-2ec3ed604725.png">
 <img width="389" alt="Screenshot 2023-01-15 171933 (2)" src="https://user-images.githubusercontent.com/101187429/212553430-e9334398-f6bb-4e55-aa41-5d64f105d691.png">
+
 ![ttt](https://user-images.githubusercontent.com/101187429/212553657-471345f8-e359-4dfa-804f-e115074ea848.jp5f8-e359-4dfa-804f-e115074ea848.jpg)
 
 ## Docker :
