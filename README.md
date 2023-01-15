@@ -72,11 +72,13 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 ## NFT et BlockChain :
 ### remarque : lorsque un utilisateur veut creer un nft il doit quelque infos seront stockés dans la bdd (collection ...) et d'autre dans la blockchain (token , owner ) et biensur il doit confirmer la transactions et les frais (gas ) .
 ### Ajouter NFT :
+
 <img width="959" alt="Screenshot 2023-01-15 171429 (1)" src="https://user-images.githubusercontent.com/101187429/212552802-411d8b02-c415-49c6-89e3-8db39b586ce4.png">
 <img width="960" alt="Screenshot 2023-01-15 172245" src="https://user-images.githubusercontent.com/101187429/212553114-fb0b23cf-a7dc-4d5a-8053-61745711cef2.png">
 <img width="955" alt="Screenshot 2023-01-15 172407" src="https://user-images.githubusercontent.com/101187429/212553331-9716ab7e-4c3f-41e7-90f9-e26e50e36590.png">
 <img width="632" alt="Screenshot 2023-01-15 172823" src="https://user-images.githubusercontent.com/101187429/212553355-68b404df-104f-4966-82bf-2ec3ed604725.png">
 <img width="389" alt="Screenshot 2023-01-15 171933 (2)" src="https://user-images.githubusercontent.com/101187429/212553430-e9334398-f6bb-4e55-aa41-5d64f105d691.png">
+![ttt](https://user-images.githubusercontent.com/101187429/212553531-df7d050f-69d3-4a90-bb20-9eadfda74202.jpg)
 
 ## Docker :
 ## Jenkins :
