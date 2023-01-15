@@ -49,4 +49,9 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 ## Docker :
 ## Jenkins :
 
-
+<img width="658" alt="1 " src="https://user-images.githubusercontent.com/101187429/212549104-f8e0e68f-17c7-4cdf-b364-e07b80c980bc.png">
+<img width="650" alt="2 " src="https://user-images.githubusercontent.com/101187429/212549155-6cf505c8-cf5e-4d26-9310-809c3b7de3ac.png">
+<img width="656" alt="3" src="https://user-images.githubusercontent.com/101187429/212549176-1c33a423-9481-48aa-b4ca-619ac81164fb.png">
+<img width="647" alt="4" src="https://user-images.githubusercontent.com/101187429/212549184-ebd9e742-519f-444b-8e25-c4fea6ca78e8.png">
+![5](https://user-images.githubusercontent.com/101187429/212549186-eb0c94c8-15ac-456a-a568-af48e270e57b.png)
+<img width="656" alt="6" src="https://user-images.githubusercontent.com/101187429/212549185-b67064a1-43cd-4268-a7df-4d2976032c0b.png">
