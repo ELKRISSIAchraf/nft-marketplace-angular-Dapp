@@ -72,7 +72,8 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 
 <img width="959" alt="Screenshot 2023-01-15 170942 (1)" src="https://user-images.githubusercontent.com/101187429/212552443-dc292f75-860c-4067-9741-ca6abe27fa60.png">
 <img width="788" alt="Screenshot 2023-01-15 170628" src="https://user-images.githubusercontent.com/101187429/212552462-8b5ad9bd-a8cb-4b61-a042-5b4e438d40cc.png">
-
+ 
+ ###  detail d'une collection (c-a-d ses  nfts) :
 ## NFT et BlockChain :
 ### remarque : lorsque un utilisateur veut creer un nft il doit quelque infos seront stockés dans la bdd (collection ...) et d'autre dans la blockchain (token , owner ) et biensur il doit confirmer la transactions et les frais (gas ) .
 ### Ajouter NFT :
