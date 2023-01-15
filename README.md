@@ -26,11 +26,14 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
  ### Mode Dark :
 <img width="957" alt="Screenshot 2023-01-15 151210" src="https://user-images.githubusercontent.com/101187429/212545980-8fdfcf50-a9f7-4ee8-a0d5-9b0ec55655b4.png">
  ### Mode Light :
+ 
 ## Se connecter :
+
  ### Remarque :  si l'internaute se connecte a travers metamask on recupere son adresse de portefeuille et par la suite il peut s'enregistrer ( ajouter un nom , image ...) 
 ## S'enregistrer :
  ### Remarque : lorsque l'utilisateur s'enregistre ses infos(image , name ...) seront stockés (bdd) sauf la balance 
 ## Panier :
+
  ### Remarque :  l'ajoute d'un NFT au panier  ca vous dire pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
 
 ## Docker :
