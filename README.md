@@ -40,6 +40,8 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 
 ## Se connecter :
 
+<img width="218" alt="image" src="https://user-images.githubusercontent.com/101187429/212550163-a51a05a1-0cfe-4ae9-9ae9-5a58c39a7963.png">
+
  ### Remarque :  si l'internaute se connecte a travers metamask on recupere son adresse de portefeuille et par la suite il peut s'enregistrer ( ajouter un nom , image ...) 
 ## S'enregistrer :
  ### Remarque : lorsque l'utilisateur s'enregistre ses infos(image , name ...) seront stockés (bdd) sauf la balance 
