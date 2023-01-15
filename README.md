@@ -39,12 +39,13 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 <img width="960" alt="Screenshot 2023-01-15 161835" src="https://user-images.githubusercontent.com/101187429/212549748-3d78adea-295a-4b33-bf99-2077e8960402.png">
 
 ## Se connecter :
-
-<img width="218" alt="image" src="https://user-images.githubusercontent.com/101187429/212550163-a51a05a1-0cfe-4ae9-9ae9-5a58c39a7963.png">
-
  ### Remarque :  si l'internaute se connecte a travers metamask on recupere son adresse de portefeuille et par la suite il peut s'enregistrer ( ajouter un nom , image ...) 
+ <img width="218" alt="image" src="https://user-images.githubusercontent.com/101187429/212550163-a51a05a1-0cfe-4ae9-9ae9-5a58c39a7963.png">
+
 ## S'enregistrer :
  ### Remarque : lorsque l'utilisateur s'enregistre ses infos(image , name ...) seront stockés (bdd) sauf la balance 
+ <img width="909" alt="Screenshot 2023-01-15 163413" src="https://user-images.githubusercontent.com/101187429/212550468-bacd0623-9f3b-4acc-b852-651dd66e4f8e.png">
+
 ## Panier :
 
  ### Remarque :  l'ajoute d'un NFT au panier  ca vous dire pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
