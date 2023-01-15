@@ -45,18 +45,23 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 ## S'enregistrer :
  ### Remarque : lorsque l'utilisateur s'enregistre ses infos(image , name ...) seront stockés (bdd) sauf la balance 
  <img width="909" alt="Screenshot 2023-01-15 163413" src="https://user-images.githubusercontent.com/101187429/212550468-bacd0623-9f3b-4acc-b852-651dd66e4f8e.png">
+## Profil : 
 
 ## Panier :
 
   ### afficher panier :
+  
   <img width="956" alt="Screenshot 2023-01-15 163835" src="https://user-images.githubusercontent.com/101187429/212550707-5539f08e-3e05-4789-9690-cccddb1f3134.png">
+  
   ### ajouter nft au panier :
   ### on va ajouter nft suivant : 
   
   ![mm](https://user-images.githubusercontent.com/101187429/212550866-a8d355e3-4502-4884-9a73-e582e6a031a7.jpg)
 <img width="916" alt="Screenshot 2023-01-15 164305" src="https://user-images.githubusercontent.com/101187429/212550953-d00dda3a-c645-4b47-ab0e-7793e61ed3be.png">
-  ### delete from panier :
-  ![sss](https://user-images.githubusercontent.com/101187429/212551006-2328a0fa-53ae-4f84-badb-8aa138553602.jpg)
+ 
+ ### delete from panier :
+ 
+ ![sss](https://user-images.githubusercontent.com/101187429/212551006-2328a0fa-53ae-4f84-badb-8aa138553602.jpg)
   
  ### Remarque :  l'ajoute d'un NFT au panier  ca vous dire pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
 
