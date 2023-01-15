@@ -65,7 +65,10 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
   
  ### Remarque :  l'ajoute d'un NFT au panier  ca vous dire pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
 ## collections du user :
+<img width="958" alt="Screenshot 2023-01-15 170330" src="https://user-images.githubusercontent.com/101187429/212552299-91f450f1-a059-46e3-b128-35f9c82956fb.png">
 ### ajouter collection :
+<img width="959" alt="Screenshot 2023-01-15 170942 (1)" src="https://user-images.githubusercontent.com/101187429/212552443-dc292f75-860c-4067-9741-ca6abe27fa60.png">
+<img width="788" alt="Screenshot 2023-01-15 170628" src="https://user-images.githubusercontent.com/101187429/212552462-8b5ad9bd-a8cb-4b61-a042-5b4e438d40cc.png">
 <img width="959" alt="Screenshot 2023-01-15 164812" src="https://user-images.githubusercontent.com/101187429/212551268-893d2a55-e000-4f50-89e5-8bc4d1738d2c.png">
 
 ## Docker :
