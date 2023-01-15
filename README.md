@@ -24,6 +24,8 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 
 ## MetaMask:
 
+![meta](https://user-images.githubusercontent.com/101187429/212547595-b2734fff-0c1e-477b-a7c3-7b1dfea6d69d.jpg)
+
 ## Accueil :
  ### Mode Dark :
  
@@ -32,7 +34,9 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 <img width="956" alt="Screenshot 2023-01-15 152234" src="https://user-images.githubusercontent.com/101187429/212546354-99ec33eb-b2ea-423b-918a-da9268e53ffb.png">
 
 ### Mode Light :
- 
+
+ <img width="283" alt="Screenshot 2023-01-15 152629 (1)" src="https://user-images.githubusercontent.com/101187429/212547589-8d831b79-fe87-49f9-8872-a7dabb0e440f.png">
+
 ## Se connecter :
 
  ### Remarque :  si l'internaute se connecte a travers metamask on recupere son adresse de portefeuille et par la suite il peut s'enregistrer ( ajouter un nom , image ...) 
