@@ -68,7 +68,7 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
  
  ![sss](https://user-images.githubusercontent.com/101187429/212551006-2328a0fa-53ae-4f84-badb-8aa138553602.jpg)
   
- ### Remarque :  l'ajoute d'un NFT au panier  ca vous dire pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
+ ### Remarque :  l'ajoute d'un NFT au panier  n'implique pas qu'il l'a acheté , il reste dans le marketplace et tout le monde peut le voire mais si qlq un d'autre l'a acheté il sera effacé du panier 
 ## collections du user :
 <img width="958" alt="Screenshot 2023-01-15 170330" src="https://user-images.githubusercontent.com/101187429/212552299-91f450f1-a059-46e3-b128-35f9c82956fb.png">
 
@@ -85,7 +85,7 @@ Spring boot, Solidity ,Micro Services , Angular , Ether.js , Hardhat,
 <img width="959" alt="Screenshot 2023-01-15 175456" src="https://user-images.githubusercontent.com/101187429/212554681-ee53701d-320c-4139-a126-1737b0690bc5.png">
 
 # NFT et BlockChain :
-### remarque : lorsque un utilisateur veut creer un nft il doit quelque infos seront stockés dans la bdd (collection ...) et d'autre dans la blockchain (token , owner ) et biensur il doit confirmer la transactions et les frais (gas ) .
+### remarque : lorsque un utilisateur veut creer un nft quelques infos seront stockés dans la bdd (collection ...) et d'autre dans la blockchain (token , owner ) et bien sur il doit confirmer la transaction et les frais (gas ) .
 ### Ajouter NFT :
 
 <img width="959" alt="Screenshot 2023-01-15 171429 (1)" src="https://user-images.githubusercontent.com/101187429/212552802-411d8b02-c415-49c6-89e3-8db39b586ce4.png">
